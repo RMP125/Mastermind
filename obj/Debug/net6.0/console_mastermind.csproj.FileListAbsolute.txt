@@ -1,0 +1,15 @@
+C:\Users\user\Documents\console_mastermind\obj\Debug\net6.0\console_mastermind.csproj.AssemblyReference.cache
+C:\Users\user\Documents\console_mastermind\obj\Debug\net6.0\console_mastermind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\console_mastermind\obj\Debug\net6.0\console_mastermind.AssemblyInfoInputs.cache
+C:\Users\user\Documents\console_mastermind\obj\Debug\net6.0\console_mastermind.AssemblyInfo.cs
+C:\Users\user\Documents\console_mastermind\obj\Debug\net6.0\console_mastermind.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\console_mastermind\bin\Debug\net6.0\console_mastermind.exe
+C:\Users\user\Documents\console_mastermind\bin\Debug\net6.0\console_mastermind.deps.json
+C:\Users\user\Documents\console_mastermind\bin\Debug\net6.0\console_mastermind.runtimeconfig.json
+C:\Users\user\Documents\console_mastermind\bin\Debug\net6.0\console_mastermind.dll
+C:\Users\user\Documents\console_mastermind\bin\Debug\net6.0\console_mastermind.pdb
+C:\Users\user\Documents\console_mastermind\obj\Debug\net6.0\console_mastermind.dll
+C:\Users\user\Documents\console_mastermind\obj\Debug\net6.0\refint\console_mastermind.dll
+C:\Users\user\Documents\console_mastermind\obj\Debug\net6.0\console_mastermind.pdb
+C:\Users\user\Documents\console_mastermind\obj\Debug\net6.0\console_mastermind.genruntimeconfig.cache
+C:\Users\user\Documents\console_mastermind\obj\Debug\net6.0\ref\console_mastermind.dll
